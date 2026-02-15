@@ -1,16 +1,18 @@
-# React + Vite
+A responsive and animated Login Popup Modal built using React and Tailwind CSS.
+This component includes a toggleable popup, password visibility feature, and smooth transition animation.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Features:<br>
 
-Currently, two official plugins are available:
+*Toggle popup modal<br>
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+*Smooth slide-down animation<br>
 
-## React Compiler
+*Overlay background with close on outside click<br>
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+*Password show/hide toggle<br>
 
-## Expanding the ESLint configuration
+*Fully responsive design<br>
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+*Built with Tailwind CSS utility classes<br>
+
+*React Icons integration
